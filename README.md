@@ -15,7 +15,7 @@ Currently improving my JavaScript logic and React skills by building real-world 
 
 - 📄 **Landing Page UI**  
   Modern landing page layout with reusable components  
-  🔗 GitHub: https://github.com/yourusername/landing-page  
+  🔗 GitHub: https://techvenkatvis.github.io/responsive-design-site/  
 
 - 🧮 **JavaScript Logic Practice**  
   Daily JS problems to strengthen problem-solving skills  
